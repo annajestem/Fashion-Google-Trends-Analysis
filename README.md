@@ -1,17 +1,20 @@
-This project explores Google Trends data related to luxury fashion brands and online sentiment analysis.
+# Fashion Google Trends Analysis
 
-Project scope
-Google Trends data analysis
-Visualization of trend popularity over time
-Basic sentiment analysis of YouTube comments related to luxury fashion brands
+This project explores Google Trends data related to luxury fashion brands and basic sentiment analysis of YouTube comments.
 
-Tools used
-Python
-Pandas
-Matplotlib
-Jupyter Notebook
+## Project Scope
+- Google Trends data analysis
+- Visualization of trend popularity over time
+- Basic sentiment analysis for luxury fashion brands
 
-Files
-analiza.ipynb — main analysis notebook
-trends.csv — trends dataset
-luxury_trends.png — generated visualization
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Jupyter Notebook
+
+## Repository Structure
+- `analiza.ipynb` — main analysis notebook
+- `trends.csv` — Google Trends dataset
+- `luxury_trends.png` — generated visualization
+- `sentiment_analysis/` — sentiment analysis files
